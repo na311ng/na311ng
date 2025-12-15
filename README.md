@@ -1,6 +1,6 @@
 ### Hi Welcome, I'm Nayoung Lee 👋
 
-#### Server Developer
+#### Backend Developer
 사용자에게 안정적인 서비스 경험을 제공하는 서버 개발자를 목표로 성장하고 있습니다. 
 Spring Boot 기반 백엔드 개발을 중심으로 비즈니스 로직을 구조화하고 데이터 흐름을 명확히 설계하는 것에 관심이 많습니다. 
 
